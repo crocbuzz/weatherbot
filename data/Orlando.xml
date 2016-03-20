@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<response>
+	<version>0.1</version>
+	<termsofService>http://www.wunderground.com/weather/api/d/terms.html</termsofService>
+	<features>
+		<feature>conditions</feature>
+	</features>
+  <current_observation>
+		<image>
+		<url>http://icons.wxug.com/graphics/wu2/logo_130x80.png</url>
+		<title>Weather Underground</title>
+		<link>http://www.wunderground.com</link>
+		</image>
+		<display_location>
+		<full>Orlando, FL</full>
+		<city>Orlando</city>
+		<state>FL</state>
+		<state_name>Florida</state_name>
+		<country>US</country>
+		<country_iso3166>US</country_iso3166>
+		<zip>32801</zip>
+		<magic>1</magic>
+		<wmo>99999</wmo>
+		<latitude>28.54150772</latitude>
+		<longitude>-81.37413788</longitude>
+		<elevation>35.00000000</elevation>
+		</display_location>
+		<observation_location>
+		<full>WFTV, Channel 9, Orlando, Florida</full>
+		<city>WFTV, Channel 9, Orlando</city>
+		<state>Florida</state>
+		<country>US</country>
+		<country_iso3166>US</country_iso3166>
+		<latitude>28.537670</latitude>
+		<longitude>-81.372108</longitude>
+		<elevation>92 ft</elevation>
+		</observation_location>
+		<estimated>
+		</estimated>
+		<station_id>KFLORLAN65</station_id>
+		<observation_time>Last Updated on February 11, 6:29 PM EST</observation_time>
+		<observation_time_rfc822>Thu, 11 Feb 2016 18:29:48 -0500</observation_time_rfc822>
+		<observation_epoch>1455233388</observation_epoch>
+		<local_time_rfc822>Thu, 11 Feb 2016 18:29:53 -0500</local_time_rfc822>
+		<local_epoch>1455233393</local_epoch>
+		<local_tz_short>EST</local_tz_short>
+		<local_tz_long>America/New_York</local_tz_long>
+		<local_tz_offset>-0500</local_tz_offset>
+		<weather>Clear</weather>
+		<temperature_string>63.5 F (17.5 C)</temperature_string>
+		<temp_f>63.5</temp_f>
+		<temp_c>17.5</temp_c>
+		<relative_humidity>39%</relative_humidity>
+		<wind_string>Calm</wind_string>
+		<wind_dir>ESE</wind_dir>
+		<wind_degrees>119</wind_degrees>
+		<wind_mph>0.4</wind_mph>
+		<wind_gust_mph>2.5</wind_gust_mph>
+		<wind_kph>0.6</wind_kph>
+		<wind_gust_kph>4.0</wind_gust_kph>
+		<pressure_mb>1025</pressure_mb>
+		<pressure_in>30.26</pressure_in>
+		<pressure_trend>0</pressure_trend>
+		
+		<dewpoint_string>38 F (3 C)</dewpoint_string>
+		<dewpoint_f>38</dewpoint_f>
+		<dewpoint_c>3</dewpoint_c>
+		
+		
+		<heat_index_string>NA</heat_index_string>
+		<heat_index_f>NA</heat_index_f>
+		<heat_index_c>NA</heat_index_c>
+		
+		
+		<windchill_string>NA</windchill_string>
+		<windchill_f>NA</windchill_f>
+		<windchill_c>NA</windchill_c>
+		
+        <feelslike_string>63.5 F (17.5 C)</feelslike_string>
+        <feelslike_f>63.5</feelslike_f>
+        <feelslike_c>17.5</feelslike_c>
+		<visibility_mi>10.0</visibility_mi>
+		<visibility_km>16.1</visibility_km>
+		<solarradiation>0</solarradiation>
+		<UV>0.0</UV>
+		<precip_1hr_string>0.00 in ( 0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric> 0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0 mm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0</precip_today_metric>
+		
+		
+		
+		<icon>clear</icon>
+		<icon_url>http://icons.wxug.com/i/c/k/nt_clear.gif</icon_url>
+		<forecast_url>http://www.wunderground.com/US/FL/Orlando.html</forecast_url>
+        
+        <history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=KFLORLAN65</history_url>
+        
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=28.537670,-81.372108</ob_url>
+	</current_observation>
+
+		
+	
+	
+	
+	
+    
+	
+	
+		
+	
+
+    
+    
+    
+	
+  
+	
+	
+	
+	
+	
+    
+    
+
+
+    
+    
+    
+    
+</response>
