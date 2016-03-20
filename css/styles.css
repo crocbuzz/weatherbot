@@ -35,6 +35,7 @@ div#nav {
 	height: 280px;
 	background: #9257A9;
 	display: none;
+    z-index: 10;
 }
 
 #nav ul {
@@ -88,7 +89,6 @@ div#nav {
 #image {
 	width: 90%;
 	height: 400px;
-	background: rgba(205, 205, 201, .2);
 	border-radius: 50px;
 	margin: 25px auto;
 	text-align: center;
