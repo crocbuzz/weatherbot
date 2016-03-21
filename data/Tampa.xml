@@ -26,45 +26,45 @@
 		<elevation>17.00000000</elevation>
 		</display_location>
 		<observation_location>
-		<full>Stewart Middle Magnet School WeatherSTEM, Tampa, Florida</full>
-		<city>Stewart Middle Magnet School WeatherSTEM, Tampa</city>
+		<full>The University of Tampa, Tampa, Florida</full>
+		<city>The University of Tampa, Tampa</city>
 		<state>Florida</state>
 		<country>US</country>
 		<country_iso3166>US</country_iso3166>
-		<latitude>27.960217</latitude>
-		<longitude>-82.472008</longitude>
-		<elevation>13 ft</elevation>
+		<latitude>27.945669</latitude>
+		<longitude>-82.463997</longitude>
+		<elevation>30 ft</elevation>
 		</observation_location>
 		<estimated>
 		</estimated>
-		<station_id>KFLTAMPA156</station_id>
-		<observation_time>Last Updated on February 11, 6:25 PM EST</observation_time>
-		<observation_time_rfc822>Thu, 11 Feb 2016 18:25:51 -0500</observation_time_rfc822>
-		<observation_epoch>1455233151</observation_epoch>
-		<local_time_rfc822>Thu, 11 Feb 2016 18:32:18 -0500</local_time_rfc822>
-		<local_epoch>1455233538</local_epoch>
-		<local_tz_short>EST</local_tz_short>
+		<station_id>KFLTAMPA46</station_id>
+		<observation_time>Last Updated on March 21, 6:34 PM EDT</observation_time>
+		<observation_time_rfc822>Mon, 21 Mar 2016 18:34:09 -0400</observation_time_rfc822>
+		<observation_epoch>1458599649</observation_epoch>
+		<local_time_rfc822>Mon, 21 Mar 2016 18:34:11 -0400</local_time_rfc822>
+		<local_epoch>1458599651</local_epoch>
+		<local_tz_short>EDT</local_tz_short>
 		<local_tz_long>America/New_York</local_tz_long>
-		<local_tz_offset>-0500</local_tz_offset>
+		<local_tz_offset>-0400</local_tz_offset>
 		<weather>Clear</weather>
-		<temperature_string>61.4 F (16.3 C)</temperature_string>
-		<temp_f>61.4</temp_f>
-		<temp_c>16.3</temp_c>
-		<relative_humidity>61%</relative_humidity>
-		<wind_string>From the West at 2.0 MPH Gusting to 8.0 MPH</wind_string>
-		<wind_dir>West</wind_dir>
-		<wind_degrees>268</wind_degrees>
-		<wind_mph>2.0</wind_mph>
-		<wind_gust_mph>8.0</wind_gust_mph>
-		<wind_kph>3.2</wind_kph>
-		<wind_gust_kph>12.9</wind_gust_kph>
-		<pressure_mb>1025</pressure_mb>
-		<pressure_in>30.27</pressure_in>
+		<temperature_string>61.0 F (16.1 C)</temperature_string>
+		<temp_f>61.0</temp_f>
+		<temp_c>16.1</temp_c>
+		<relative_humidity>47%</relative_humidity>
+		<wind_string>From the NE at 15.0 MPH Gusting to 17.0 MPH</wind_string>
+		<wind_dir>NE</wind_dir>
+		<wind_degrees>34</wind_degrees>
+		<wind_mph>15.0</wind_mph>
+		<wind_gust_mph>17.0</wind_gust_mph>
+		<wind_kph>24.1</wind_kph>
+		<wind_gust_kph>27.4</wind_gust_kph>
+		<pressure_mb>1023</pressure_mb>
+		<pressure_in>30.21</pressure_in>
 		<pressure_trend>-</pressure_trend>
 		
-		<dewpoint_string>48 F (9 C)</dewpoint_string>
-		<dewpoint_f>48</dewpoint_f>
-		<dewpoint_c>9</dewpoint_c>
+		<dewpoint_string>41 F (5 C)</dewpoint_string>
+		<dewpoint_f>41</dewpoint_f>
+		<dewpoint_c>5</dewpoint_c>
 		
 		
 		<heat_index_string>NA</heat_index_string>
@@ -76,13 +76,13 @@
 		<windchill_f>NA</windchill_f>
 		<windchill_c>NA</windchill_c>
 		
-        <feelslike_string>61.4 F (16.3 C)</feelslike_string>
-        <feelslike_f>61.4</feelslike_f>
-        <feelslike_c>16.3</feelslike_c>
+        <feelslike_string>61.0 F (16.1 C)</feelslike_string>
+        <feelslike_f>61.0</feelslike_f>
+        <feelslike_c>16.1</feelslike_c>
 		<visibility_mi>10.0</visibility_mi>
 		<visibility_km>16.1</visibility_km>
-		<solarradiation>0</solarradiation>
-		<UV>0.0</UV>
+		<solarradiation>149</solarradiation>
+		<UV>0.5</UV>
 		<precip_1hr_string>0.00 in ( 0 mm)</precip_1hr_string>
 		<precip_1hr_in>0.00</precip_1hr_in>
 		<precip_1hr_metric> 0</precip_1hr_metric>
@@ -93,12 +93,12 @@
 		
 		
 		<icon>clear</icon>
-		<icon_url>http://icons.wxug.com/i/c/k/nt_clear.gif</icon_url>
+		<icon_url>http://icons.wxug.com/i/c/k/clear.gif</icon_url>
 		<forecast_url>http://www.wunderground.com/US/FL/Tampa.html</forecast_url>
         
-        <history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=KFLTAMPA156</history_url>
+        <history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=KFLTAMPA46</history_url>
         
-		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=27.960217,-82.472008</ob_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=27.945669,-82.463997</ob_url>
 	</current_observation>
 
 		
