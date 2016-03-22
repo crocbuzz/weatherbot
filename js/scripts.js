@@ -7,6 +7,8 @@ JQUERY4U = {
 //function call
 console.log(JQUERY4U.multiply(2,2));
 */
+var selected = $("select option:selected").text();
+console.log(selected);
 
 $("select").change(function() {
 	$.ajax({
