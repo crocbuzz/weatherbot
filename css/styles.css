@@ -129,3 +129,14 @@ div#nav {
 select {
 	width: 80%;
 }
+
+#message {
+    width: 90%;
+    height: 100px;
+    background: rgba(205, 205, 201, .2);
+    border-radius: 50px;
+    margin: 25px auto;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 100px;
+}

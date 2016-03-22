@@ -1,5 +1,7 @@
 <?php 
 include("includes/functions.php");
+include("includes/db_connect.php");
+include("includes/mysql.php");
 ?>
 <!DOCTYPE html>
 <html>
@@ -60,6 +62,14 @@ include("includes/functions.php");
                     </div>
                 </div>
 			</div>
+
+            <div class="pure-g">
+                <div class="pure-u-1">
+                    <div id="message">
+                        <h1><?php print($xyz); ?></h1>
+                    </div>
+                </div>
+            </div>
 			
 	
 	
