@@ -38,32 +38,32 @@
 		<estimated>
 		</estimated>
 		<station_id>KFLTAMPA46</station_id>
-		<observation_time>Last Updated on March 21, 6:34 PM EDT</observation_time>
-		<observation_time_rfc822>Mon, 21 Mar 2016 18:34:09 -0400</observation_time_rfc822>
-		<observation_epoch>1458599649</observation_epoch>
-		<local_time_rfc822>Mon, 21 Mar 2016 18:34:11 -0400</local_time_rfc822>
-		<local_epoch>1458599651</local_epoch>
+		<observation_time>Last Updated on March 21, 7:54 PM EDT</observation_time>
+		<observation_time_rfc822>Mon, 21 Mar 2016 19:54:08 -0400</observation_time_rfc822>
+		<observation_epoch>1458604448</observation_epoch>
+		<local_time_rfc822>Mon, 21 Mar 2016 19:54:14 -0400</local_time_rfc822>
+		<local_epoch>1458604454</local_epoch>
 		<local_tz_short>EDT</local_tz_short>
 		<local_tz_long>America/New_York</local_tz_long>
 		<local_tz_offset>-0400</local_tz_offset>
 		<weather>Clear</weather>
-		<temperature_string>61.0 F (16.1 C)</temperature_string>
-		<temp_f>61.0</temp_f>
-		<temp_c>16.1</temp_c>
-		<relative_humidity>47%</relative_humidity>
-		<wind_string>From the NE at 15.0 MPH Gusting to 17.0 MPH</wind_string>
+		<temperature_string>58.6 F (14.8 C)</temperature_string>
+		<temp_f>58.6</temp_f>
+		<temp_c>14.8</temp_c>
+		<relative_humidity>53%</relative_humidity>
+		<wind_string>Calm</wind_string>
 		<wind_dir>NE</wind_dir>
 		<wind_degrees>34</wind_degrees>
-		<wind_mph>15.0</wind_mph>
-		<wind_gust_mph>17.0</wind_gust_mph>
-		<wind_kph>24.1</wind_kph>
-		<wind_gust_kph>27.4</wind_gust_kph>
-		<pressure_mb>1023</pressure_mb>
-		<pressure_in>30.21</pressure_in>
+		<wind_mph>0.9</wind_mph>
+		<wind_gust_mph>16.0</wind_gust_mph>
+		<wind_kph>1.4</wind_kph>
+		<wind_gust_kph>25.7</wind_gust_kph>
+		<pressure_mb>1024</pressure_mb>
+		<pressure_in>30.24</pressure_in>
 		<pressure_trend>-</pressure_trend>
 		
-		<dewpoint_string>41 F (5 C)</dewpoint_string>
-		<dewpoint_f>41</dewpoint_f>
+		<dewpoint_string>42 F (5 C)</dewpoint_string>
+		<dewpoint_f>42</dewpoint_f>
 		<dewpoint_c>5</dewpoint_c>
 		
 		
@@ -76,13 +76,13 @@
 		<windchill_f>NA</windchill_f>
 		<windchill_c>NA</windchill_c>
 		
-        <feelslike_string>61.0 F (16.1 C)</feelslike_string>
-        <feelslike_f>61.0</feelslike_f>
-        <feelslike_c>16.1</feelslike_c>
+        <feelslike_string>58.6 F (14.8 C)</feelslike_string>
+        <feelslike_f>58.6</feelslike_f>
+        <feelslike_c>14.8</feelslike_c>
 		<visibility_mi>10.0</visibility_mi>
 		<visibility_km>16.1</visibility_km>
-		<solarradiation>149</solarradiation>
-		<UV>0.5</UV>
+		<solarradiation>0</solarradiation>
+		<UV>0.0</UV>
 		<precip_1hr_string>0.00 in ( 0 mm)</precip_1hr_string>
 		<precip_1hr_in>0.00</precip_1hr_in>
 		<precip_1hr_metric> 0</precip_1hr_metric>
@@ -93,7 +93,7 @@
 		
 		
 		<icon>clear</icon>
-		<icon_url>http://icons.wxug.com/i/c/k/clear.gif</icon_url>
+		<icon_url>http://icons.wxug.com/i/c/k/nt_clear.gif</icon_url>
 		<forecast_url>http://www.wunderground.com/US/FL/Tampa.html</forecast_url>
         
         <history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=KFLTAMPA46</history_url>
