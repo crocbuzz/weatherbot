@@ -38,33 +38,33 @@
 		<estimated>
 		</estimated>
 		<station_id>KFLTAMPA46</station_id>
-		<observation_time>Last Updated on March 22, 11:31 AM EDT</observation_time>
-		<observation_time_rfc822>Tue, 22 Mar 2016 11:31:52 -0400</observation_time_rfc822>
-		<observation_epoch>1458660712</observation_epoch>
-		<local_time_rfc822>Tue, 22 Mar 2016 11:31:53 -0400</local_time_rfc822>
-		<local_epoch>1458660713</local_epoch>
+		<observation_time>Last Updated on March 22, 12:04 PM EDT</observation_time>
+		<observation_time_rfc822>Tue, 22 Mar 2016 12:04:32 -0400</observation_time_rfc822>
+		<observation_epoch>1458662672</observation_epoch>
+		<local_time_rfc822>Tue, 22 Mar 2016 12:04:36 -0400</local_time_rfc822>
+		<local_epoch>1458662676</local_epoch>
 		<local_tz_short>EDT</local_tz_short>
 		<local_tz_long>America/New_York</local_tz_long>
 		<local_tz_offset>-0400</local_tz_offset>
 		<weather>Clear</weather>
-		<temperature_string>64.4 F (18.0 C)</temperature_string>
-		<temp_f>64.4</temp_f>
-		<temp_c>18.0</temp_c>
-		<relative_humidity>35%</relative_humidity>
+		<temperature_string>66.6 F (19.2 C)</temperature_string>
+		<temp_f>66.6</temp_f>
+		<temp_c>19.2</temp_c>
+		<relative_humidity>34%</relative_humidity>
 		<wind_string>Calm</wind_string>
 		<wind_dir>NNE</wind_dir>
-		<wind_degrees>31</wind_degrees>
+		<wind_degrees>28</wind_degrees>
 		<wind_mph>0.0</wind_mph>
-		<wind_gust_mph>14.0</wind_gust_mph>
+		<wind_gust_mph>2.0</wind_gust_mph>
 		<wind_kph>0.0</wind_kph>
-		<wind_gust_kph>22.5</wind_gust_kph>
+		<wind_gust_kph>3.2</wind_gust_kph>
 		<pressure_mb>1029</pressure_mb>
 		<pressure_in>30.38</pressure_in>
 		<pressure_trend>-</pressure_trend>
 		
-		<dewpoint_string>36 F (2 C)</dewpoint_string>
-		<dewpoint_f>36</dewpoint_f>
-		<dewpoint_c>2</dewpoint_c>
+		<dewpoint_string>37 F (3 C)</dewpoint_string>
+		<dewpoint_f>37</dewpoint_f>
+		<dewpoint_c>3</dewpoint_c>
 		
 		
 		<heat_index_string>NA</heat_index_string>
@@ -76,13 +76,13 @@
 		<windchill_f>NA</windchill_f>
 		<windchill_c>NA</windchill_c>
 		
-        <feelslike_string>64.4 F (18.0 C)</feelslike_string>
-        <feelslike_f>64.4</feelslike_f>
-        <feelslike_c>18.0</feelslike_c>
+        <feelslike_string>66.6 F (19.2 C)</feelslike_string>
+        <feelslike_f>66.6</feelslike_f>
+        <feelslike_c>19.2</feelslike_c>
 		<visibility_mi>10.0</visibility_mi>
 		<visibility_km>16.1</visibility_km>
-		<solarradiation>745</solarradiation>
-		<UV>6.1</UV>
+		<solarradiation>812</solarradiation>
+		<UV>7.1</UV>
 		<precip_1hr_string>0.00 in ( 0 mm)</precip_1hr_string>
 		<precip_1hr_in>0.00</precip_1hr_in>
 		<precip_1hr_metric> 0</precip_1hr_metric>

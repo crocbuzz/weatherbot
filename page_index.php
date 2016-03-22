@@ -53,12 +53,10 @@ include("includes/functions.php");
                 </div>
                 <div class="pure-u-1 pure-u-md-1-2">
                     <div id="stats">
-                        <p>
-                            These are some stats<br>
-                            Some more stats<br>
-                            Even more stats<br>
-                            The last stat
-                        </p>
+						<h4>Weather:</h4><p><span id="weather"></span></p><br>
+						<h4>Temperature:</h4><p><span id="temperature"></span></p><br>
+						<h4>Relative Humidity:</h4><p><span id="humidity"></span></p><br>
+						<h4>Wind Speed:</h4><p><span id="wind"></span></p>
                     </div>
                 </div>
 			</div>

@@ -38,33 +38,33 @@
 		<estimated>
 		</estimated>
 		<station_id>KFLORLAN65</station_id>
-		<observation_time>Last Updated on March 22, 11:31 AM EDT</observation_time>
-		<observation_time_rfc822>Tue, 22 Mar 2016 11:31:53 -0400</observation_time_rfc822>
-		<observation_epoch>1458660713</observation_epoch>
-		<local_time_rfc822>Tue, 22 Mar 2016 11:31:53 -0400</local_time_rfc822>
-		<local_epoch>1458660713</local_epoch>
+		<observation_time>Last Updated on March 22, 12:04 PM EDT</observation_time>
+		<observation_time_rfc822>Tue, 22 Mar 2016 12:04:10 -0400</observation_time_rfc822>
+		<observation_epoch>1458662650</observation_epoch>
+		<local_time_rfc822>Tue, 22 Mar 2016 12:04:35 -0400</local_time_rfc822>
+		<local_epoch>1458662675</local_epoch>
 		<local_tz_short>EDT</local_tz_short>
 		<local_tz_long>America/New_York</local_tz_long>
 		<local_tz_offset>-0400</local_tz_offset>
 		<weather>Clear</weather>
-		<temperature_string>65.8 F (18.8 C)</temperature_string>
-		<temp_f>65.8</temp_f>
-		<temp_c>18.8</temp_c>
-		<relative_humidity>33%</relative_humidity>
-		<wind_string>From the ENE at 2.5 MPH Gusting to 4.9 MPH</wind_string>
-		<wind_dir>ENE</wind_dir>
-		<wind_degrees>70</wind_degrees>
-		<wind_mph>2.5</wind_mph>
-		<wind_gust_mph>4.9</wind_gust_mph>
-		<wind_kph>4.0</wind_kph>
-		<wind_gust_kph>7.9</wind_gust_kph>
+		<temperature_string>66.2 F (19.0 C)</temperature_string>
+		<temp_f>66.2</temp_f>
+		<temp_c>19.0</temp_c>
+		<relative_humidity>35%</relative_humidity>
+		<wind_string>From the NNE at 7.6 MPH Gusting to 9.8 MPH</wind_string>
+		<wind_dir>NNE</wind_dir>
+		<wind_degrees>19</wind_degrees>
+		<wind_mph>7.6</wind_mph>
+		<wind_gust_mph>9.8</wind_gust_mph>
+		<wind_kph>12.2</wind_kph>
+		<wind_gust_kph>15.8</wind_gust_kph>
 		<pressure_mb>1029</pressure_mb>
 		<pressure_in>30.39</pressure_in>
-		<pressure_trend>+</pressure_trend>
+		<pressure_trend>0</pressure_trend>
 		
-		<dewpoint_string>36 F (2 C)</dewpoint_string>
-		<dewpoint_f>36</dewpoint_f>
-		<dewpoint_c>2</dewpoint_c>
+		<dewpoint_string>38 F (3 C)</dewpoint_string>
+		<dewpoint_f>38</dewpoint_f>
+		<dewpoint_c>3</dewpoint_c>
 		
 		
 		<heat_index_string>NA</heat_index_string>
@@ -76,13 +76,13 @@
 		<windchill_f>NA</windchill_f>
 		<windchill_c>NA</windchill_c>
 		
-        <feelslike_string>65.8 F (18.8 C)</feelslike_string>
-        <feelslike_f>65.8</feelslike_f>
-        <feelslike_c>18.8</feelslike_c>
+        <feelslike_string>66.2 F (19.0 C)</feelslike_string>
+        <feelslike_f>66.2</feelslike_f>
+        <feelslike_c>19.0</feelslike_c>
 		<visibility_mi>10.0</visibility_mi>
 		<visibility_km>16.1</visibility_km>
-		<solarradiation>624</solarradiation>
-		<UV>6.0</UV>
+		<solarradiation>676</solarradiation>
+		<UV>7.0</UV>
 		<precip_1hr_string>0.00 in ( 0 mm)</precip_1hr_string>
 		<precip_1hr_in>0.00</precip_1hr_in>
 		<precip_1hr_metric> 0</precip_1hr_metric>
