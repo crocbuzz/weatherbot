@@ -1,29 +1,45 @@
 <?php
 
-
+	$xyz;
+	$flag = false;
 	$ip = $_SERVER['REMOTE_ADDR'];
 
-	$sql = "SELECT * FROM weatherbot WHERE ipaddress='" . $ip . "'";
-	$result = mysqli_query($connection, $sql);
+	//$select_query = "SELECT * FROM weatherbot WHERE ipaddress='$ip'";
+	//echo $select_query;
+	//$select_result = $connection->query($select_query);
+	
+	$insert_query = "INSERT INTO weatherbot (id,ipaddress) VALUES(NULL,'$ip')";
+	//echo $insert_query;
+	
+	$select_query = "SELECT * FROM weatherbot";
+	$result = $connection->query($select_query);
+	
+    if($connection->error) {
+        print "Query failed: ".$connection->error;
+    }
+		
+
+		while($users = $result->fetch_object()) {
+		
+			$a = $users->ipaddress;
 			
-		$users = mysqli_fetch_assoc($result);
-		if (is_array($users)) {
-	        if (!in_array($ip, $users, true)) {
-		        print_r($users);
-	            $users->users[] = $users;
-	            $sql = "INSERT INTO weatherbot (ipaddress) VALUES(" . $ip . ")";
-				mysqli_query($connection, $sql);
-				$xyz = "Your IP address has been logged.";
-	        } else {
-		        $xyz =  "Welcome back!";
-	        }
-	    } else {
-		
-			$sql = "INSERT INTO weatherbot (ipaddress) VALUES(" . $ip . ")";
-			mysqli_query($connection, $sql);
-			$xyz = "Your IP address has been logged.";
-		
+			if ($a == $ip) {
+				$flag = true;
+			} else {
+				$flag = false;
+			}	
 		}
-				
+
+	if ($flag == false){
+		$insert_result = $connection->query($insert_query);
+		if ($connection->error){
+			print("Query Failed".$connection->error);
+		}
+		$xyz = "Your IP address has been logged.";
+	} else {
+		$xyz =  "Welcome back!";	
+	}
+	
+	$connection->close();
 
 ?>

@@ -1,6 +1,12 @@
 <?php
 	$username = "al089314";
 	$password = "Funkychicken21*";
-
-	$connection = mysqli_connect("sulley.cah.ucf.edu" , "$username" , "$password", 'al089314') or die(mysqli_connect_error());
+	
+	$connection = new mysqli("localhost",$username,$password,"al089314");
+    if($connection->error) {
+        print ("Error connecting!  Message: ".$connection->error);
+    } else {
+        //print("Connection Successful! \n \r <br/>");
+    }
+    
 ?>

@@ -38,51 +38,51 @@
 		<estimated>
 		</estimated>
 		<station_id>KFLMIAMI273</station_id>
-		<observation_time>Last Updated on March 22, 2:13 PM EDT</observation_time>
-		<observation_time_rfc822>Tue, 22 Mar 2016 14:13:05 -0400</observation_time_rfc822>
-		<observation_epoch>1458670385</observation_epoch>
-		<local_time_rfc822>Tue, 22 Mar 2016 14:13:09 -0400</local_time_rfc822>
-		<local_epoch>1458670389</local_epoch>
+		<observation_time>Last Updated on March 23, 3:11 PM EDT</observation_time>
+		<observation_time_rfc822>Wed, 23 Mar 2016 15:11:39 -0400</observation_time_rfc822>
+		<observation_epoch>1458760299</observation_epoch>
+		<local_time_rfc822>Wed, 23 Mar 2016 15:11:47 -0400</local_time_rfc822>
+		<local_epoch>1458760307</local_epoch>
 		<local_tz_short>EDT</local_tz_short>
 		<local_tz_long>America/New_York</local_tz_long>
 		<local_tz_offset>-0400</local_tz_offset>
 		<weather>Mostly Cloudy</weather>
-		<temperature_string>78.3 F (25.7 C)</temperature_string>
-		<temp_f>78.3</temp_f>
-		<temp_c>25.7</temp_c>
-		<relative_humidity>44%</relative_humidity>
-		<wind_string>Calm</wind_string>
-		<wind_dir>East</wind_dir>
-		<wind_degrees>90</wind_degrees>
-		<wind_mph>0.0</wind_mph>
-		<wind_gust_mph>9.8</wind_gust_mph>
-		<wind_kph>0.0</wind_kph>
-		<wind_gust_kph>15.8</wind_gust_kph>
-		<pressure_mb>1026</pressure_mb>
-		<pressure_in>30.29</pressure_in>
+		<temperature_string>79.5 F (26.4 C)</temperature_string>
+		<temp_f>79.5</temp_f>
+		<temp_c>26.4</temp_c>
+		<relative_humidity>52%</relative_humidity>
+		<wind_string>From the ESE at 9.2 MPH Gusting to 9.2 MPH</wind_string>
+		<wind_dir>ESE</wind_dir>
+		<wind_degrees>112</wind_degrees>
+		<wind_mph>9.2</wind_mph>
+		<wind_gust_mph>9.2</wind_gust_mph>
+		<wind_kph>14.8</wind_kph>
+		<wind_gust_kph>14.8</wind_gust_kph>
+		<pressure_mb>1022</pressure_mb>
+		<pressure_in>30.18</pressure_in>
 		<pressure_trend>-</pressure_trend>
 		
-		<dewpoint_string>54 F (12 C)</dewpoint_string>
-		<dewpoint_f>54</dewpoint_f>
-		<dewpoint_c>12</dewpoint_c>
+		<dewpoint_string>60 F (16 C)</dewpoint_string>
+		<dewpoint_f>60</dewpoint_f>
+		<dewpoint_c>16</dewpoint_c>
 		
 		
-		<heat_index_string>NA</heat_index_string>
-		<heat_index_f>NA</heat_index_f>
-		<heat_index_c>NA</heat_index_c>
+		<heat_index_string>81 F (27 C)</heat_index_string>
+		<heat_index_f>81</heat_index_f>
+		<heat_index_c>27</heat_index_c>
 		
 		
 		<windchill_string>NA</windchill_string>
 		<windchill_f>NA</windchill_f>
 		<windchill_c>NA</windchill_c>
 		
-        <feelslike_string>78.3 F (26 C)</feelslike_string>
-        <feelslike_f>78.3</feelslike_f>
-        <feelslike_c>26</feelslike_c>
+        <feelslike_string>81 F (27 C)</feelslike_string>
+        <feelslike_f>81</feelslike_f>
+        <feelslike_c>27</feelslike_c>
 		<visibility_mi>10.0</visibility_mi>
 		<visibility_km>16.1</visibility_km>
 		<solarradiation/>
-		<UV>7</UV>
+		<UV>6</UV>
 		<precip_1hr_string>0.00 in ( 0 mm)</precip_1hr_string>
 		<precip_1hr_in>0.00</precip_1hr_in>
 		<precip_1hr_metric> 0</precip_1hr_metric>
