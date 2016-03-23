@@ -12,6 +12,27 @@ $(document).ready(function () {
             $("#temperature").html(temperature_string);
             $("#humidity").html(relative_humidity);
             $("#wind").html(wind_string);
+            
+            switch (weather) {
+	            case "Partly Cloudy":
+	            	$("#image img").attr("src","img/cloudy.png");
+	            	break;
+	            case "Mostly Cloudy":
+	            	$("#image img").attr("src","img/overcast.png");
+	            	break;
+	            case "Clear":
+	            	$("#image img").attr("src","img/sunny.png");
+	            	break;
+	            case "Overcast":
+	            	$("#image img").attr("src","img/overcast.png");
+	            	break;
+	            case "Rain":
+	            	$("#image img").attr("src","img/rainy.png");
+	            	break;
+	            case "Snow":
+	            	$("#image img").attr("src","img/snowy.png");
+	            	break;
+            }
         },
         error: function() {
             alert("it didn't work");
@@ -35,6 +56,28 @@ $("select").change(function() {
             $("#temperature").html(temperature_string);
             $("#humidity").html(relative_humidity);
             $("#wind").html(wind_string);
+            
+            switch (weather) {
+	            case "Partly Cloudy":
+	            	$("#image img").attr("src","img/cloudy.png");
+	            	break;
+	            case "Mostly Cloudy":
+	            	$("#image img").attr("src","img/overcast.png");
+	            	break;
+	            case "Clear":
+	            	$("#image img").attr("src","img/sunny.png");
+	            	break;
+	            case "Overcast":
+	            	$("#image img").attr("src","img/overcast.png");
+	            	break;
+	            case "Rain":
+	            	$("#image img").attr("src","img/rainy.png");
+	            	break;
+	            case "Snow":
+	            	$("#image img").attr("src","img/snowy.png");
+	            	break;
+            }
+
 		},
 		error: function() {
 			alert("it didn't work");
